@@ -1,3 +1,5 @@
+<p align="center"><img src="../../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Provisioned CLI signing identity
 
 The provisioned CLI has two deliberately separate identifiers:

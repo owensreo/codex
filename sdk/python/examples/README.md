@@ -1,3 +1,5 @@
+<p align="center"><img src="../../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Python SDK Examples
 
 Each example folder contains runnable versions:

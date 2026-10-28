@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-network-proxy
 
 `codex-network-proxy` is Codex's local network policy enforcement proxy. It runs:

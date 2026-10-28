@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # HTTP/3 TCP tunnel
 
 The ordinary Codex binary includes the hidden `codex tcp-tunnel` command. It forwards a loopback TCP listener to an explicitly selected host and port through a TLS-verified HTTP/3 CONNECT proxy. The proxy URL must be an exact HTTPS origin in the supplied policy file; the target is provided separately as `host:port` or `[IPv6]:port`.

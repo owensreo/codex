@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # `rusty_v8` Consumer Artifacts
 
 This directory wires the `v8` crate to exact-version Bazel inputs.

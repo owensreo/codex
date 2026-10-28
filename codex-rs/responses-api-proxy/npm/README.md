@@ -1,3 +1,5 @@
+<p align="center"><img src="../../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # @openai/codex-responses-api-proxy
 
 <p align="center"><code>npm i -g @openai/codex-responses-api-proxy</code> to install <code>codex-responses-api-proxy</code></p>

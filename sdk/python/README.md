@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # OpenAI Codex Python SDK
 
 Build Python applications that start Codex threads, run turns, stream progress,

@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-stdio-to-uds
 
 Traditionally, there are two transport mechanisms for an MCP server: stdio and HTTP.

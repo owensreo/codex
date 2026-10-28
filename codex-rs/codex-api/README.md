@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-api
 
 Typed clients for Codex/OpenAI APIs built on top of the generic transport in `codex-client`.

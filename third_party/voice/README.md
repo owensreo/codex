@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Native voice source inputs
 
 This stage pins and prepares sources for a privately bundled, GStreamer-based
