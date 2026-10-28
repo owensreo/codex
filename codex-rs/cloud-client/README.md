@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Codex cloud client
 
 Reusable Rust client for native ThreadService gRPC over HTTP/2, with no TUI,

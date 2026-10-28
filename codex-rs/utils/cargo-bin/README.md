@@ -1,3 +1,5 @@
+<p align="center"><img src="../../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-utils-cargo-bin runfiles strategy
 
 We disable the directory-based runfiles strategy and rely on the manifest

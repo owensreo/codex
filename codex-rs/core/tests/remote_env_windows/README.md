@@ -1,3 +1,5 @@
+<p align="center"><img src="../../../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Windows remote-environment test
 
 This Bazel-only `test_codex` integration test runs a Windows exec-server fixture

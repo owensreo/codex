@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Codex MCP runtime
 
 This crate manages Codex's MCP connections, tool calls, and their captured authority.

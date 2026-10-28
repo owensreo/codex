@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-tools
 
 `codex-tools` is the shared support crate for building, adapting, and executing

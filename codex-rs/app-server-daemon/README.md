@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-app-server-daemon
 
 > `codex-app-server-daemon` is experimental and its lifecycle contract may

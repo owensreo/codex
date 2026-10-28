@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # argument-comment-lint
 
 Isolated [Dylint](https://github.com/trailofbits/dylint) library for enforcing

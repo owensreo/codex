@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # Rollout Trace
 
 > **Privacy:** Rollout tracing is not telemetry. Codex does **not** upload or

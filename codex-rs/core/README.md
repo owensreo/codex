@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-core
 
 This crate implements the business logic for Codex. It is designed to be used by the various Codex UIs written in Rust.

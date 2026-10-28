@@ -1,3 +1,5 @@
+<p align="center"><img src="../../assets/blue-ridge-systems-consulting-logo-wide.svg" alt="Blue Ridge Systems Consulting" width="480"></p>
+
 # codex-http-client
 
 `codex-http-client` is the low-level HTTP transport shared by Codex crates. It is the intended
